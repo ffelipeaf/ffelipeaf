@@ -11,7 +11,7 @@
   <a href="https://github.com/ffelipeaf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffelipeaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipeaf&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/574388348257435668/957377081665282178/20220220_140130.jpg?width=419&height=559">
