@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C# and OO development
 - 🐱‍🏍 I’m looking to improve my knowledge and start to contribute with some projects
 - 📫 How to reach me: França#9565 on discord
-- 😄 Pronouns: he/her
+- 😄 Pronouns: he/him
 - 🐱‍👤 Fun fact: i love games, music and anime
 
 <div align="center">
